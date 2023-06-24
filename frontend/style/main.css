@@ -1,0 +1,592 @@
+/* HEADER*/
+.header {
+    border-bottom: 2px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.header h1 {
+    font-family: mukta;
+    font-size: 40px;
+    text-align: center;
+}
+.header .topnav :hover {
+    color: #9e9e9e;
+}
+.header i {
+    font-size: 25px;
+    padding: 10px;
+}
+.header i:hover{
+    position: relative;
+    bottom: 5px;
+}
+.center-text {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.center-text h4 {
+    font-family: mukta;
+    font-size: 30px;
+}
+.center-text p {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.header img {
+    width: 30px;
+    padding: 5px;
+}
+.header h5 {
+    font-family: nunito;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    text-align: center;
+    color: black;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+.topnav a {
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+  }
+/*TUTUP HEADER*/
+
+/*HERO SECTION*/
+.hero-section {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+/*TUTUP HERO SECTION*/
+
+/*HERO COUPON*/
+.coupon {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding: 25px;
+
+    background-color: #EDEDED;
+}
+.coupon img {
+    width: 302px;
+    height: auto;
+    margin: auto;
+}
+/*TUTUP COUPON*/
+
+/* BEST WEEKLY*/
+.best-weekly {
+    margin-top: 95px;
+    margin-bottom: 25px;
+}
+.best-weekly h4 {
+    font-family: nunito;
+    font-weight: 500;
+    font-size: 32px;
+
+    text-align: center;
+    margin-bottom: 44px;
+}
+.best-weekly img {
+    width: 100%;
+}
+.best-weekly img:hover {
+    position: relative;
+    bottom: 5px;
+}
+.best-weekly a {
+    text-decoration: none;
+    color: black;
+}
+.see-more {
+    text-align: right;
+    margin-top: 47px;
+}
+/*TUTUP BEST WEEKLY*/
+
+/* NEW ARRIVALS*/
+.new-arrival {
+    margin-top: 95px;
+    margin-bottom: 25px;
+}
+.new-arrival a {
+    text-decoration: none;
+    color: black;
+}
+.new-arrival h4 {
+    font-family: nunito;
+    font-weight: 500;
+    font-size: 32px;
+
+    text-align: center;
+    margin-bottom: 44px;
+}
+.new-arrival img {
+    width: 100%;
+}
+
+.new-arrival h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 18px;
+    
+    height: 80px;
+
+    margin-top: 15px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.new-arrival p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 16px;
+
+    padding: 15px;
+
+    color: #707070;
+}
+.frame-card {
+    border: 1px solid black;
+    height: 500px;
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
+}
+/*TUTUP NEW ARRIVALS*/
+
+/*  BANNER*/
+.mid-banner {
+    margin-top: 95px;
+    margin-bottom: 250px;
+}
+.mid-banner img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 7px;
+}
+/*TUTUP  BANNER*/
+
+/*  FOOTER*/
+.footer {
+    background-color: #000000;
+    padding-top: 41px;
+}
+.footer h1 {
+    font-family: mukta;
+    font-size: 40px;
+    text-align: left;
+    color: #F4F4F4;
+}
+.footer .newslater {
+    width: 100%;
+    margin-bottom: 25px;
+    color: #F4F4F4;
+}
+.footer input {
+    width: 70%;
+    height: 30px;
+    color: #F4F4F4;
+}
+.footer button {
+    width: 20%;
+    height: 30px;
+    position: relative;
+    left: -5px;
+
+    background-color: #FF8686;
+    border: 1px black solid;
+}
+.footer h5 {
+    font-family: nunito;
+    font-size: 18px;
+    font-weight: 300;
+    font-weight: bold;
+    color: #F4F4F4;
+}
+.footer p {
+    font-family: nunito;
+    font-size: 16px;
+    font-weight: 300;
+    color: #F4F4F4;
+}
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+.footer .copyright {
+    font-family: nunito;
+    font-size: 15px;
+    font-weight: 200;
+    color: #F4F4F4;
+
+    margin-top: 60px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.footer-link a:hover{
+    position:relative;
+    left:15px;
+}
+/*TUTUP  FOOTER*/
+
+/*PRODUCT SECTION*/
+.judul-halaman {
+    margin: auto;
+    text-align: center;
+    padding-top: 45px;
+}
+.back-home a:hover {
+    color: #747474;
+}
+.back-home a {
+    text-decoration: none;
+    color: #000000;
+}
+.frame-product {
+    border: 1px solid #8E8E8E;
+    width: 100%;
+    background-color: #e7f8eb;
+
+    margin-top: 70px;
+    margin-bottom: 90px;
+    padding-top: 85px;
+}
+.frame-product img {
+    width: 393px;
+    height: auto;
+}
+.frame-product h5 {
+    font-family: alata;
+    font-size: 18px;
+    font-weight: 400;
+
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product p {
+    font-family: nunito;
+    font-size: 18px;
+    font-weight: 300;
+}
+.frame-product select {
+    width: 130px;
+    margin-bottom: 15px;
+}
+.frame-product .detail-product {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product .total-purchase {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 15px;
+    border-bottom: 1px solid black;
+}
+.frame-product .buy-now {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.frame-product .buy-now button{
+    width: 100%;
+
+    border-radius: 15px;
+
+    font-size: 22px;
+    font-weight: 900;
+    font-family: nunito;
+
+    color: #000000;
+    background-color: #FFFFFF;
+    height: 90px;
+}
+.frame-product .buy-now button:hover {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.wl-cart {
+    width: 100%;
+}
+.frame-product .wl-cart button {
+
+    font-size: 22px;
+    font-weight: 900;
+    font-family: nunito;
+
+    border-radius: 15px;
+
+    color: #FFFFFF;
+    border: none;
+    background-color: #FFDAB9;
+    height: 90px;
+}
+.frame-product .wl-cart button:hover {
+    color: #FFFFFF;
+    background-color: #FFC0CB;
+}
+.frame-product .navbar-product {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    margin-top: 45px;
+    margin-bottom: 55px;
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.frame-product .navbar-product a {
+    overflow: hidden;
+    text-align: center;
+    color: black;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.frame-product .relate-product {
+    width: 100%;
+    border: 1px solid black;
+    height: 470px;
+
+    margin-bottom: 150px;
+}
+.frame-product .relate-product img {
+    width: 100%;
+}
+.frame-product .relate-product h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 17px;
+
+    color: black;
+    
+    height: 50px;
+
+    margin-top: 15px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.frame-product .relate-product p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 16px;
+
+    padding: 15px;
+
+    color: #707070;
+}
+/*TUTUP PRODUCT SECTION*/
+
+/*PRODUCT INFORMATION*/
+.order-page .tabel-product-information {
+
+    margin-top: 45px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+.order-page .tabel-product-information table{
+    width: 100%;
+}
+.order-page .tabel-product-information td{
+    border: #D5D5D5 1px solid;
+}
+.order-page .tabel-product-information img {
+    width: 108px;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+}
+.order-page .tabel-product-information h5 {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+
+    padding-top: 25px;
+
+}
+.order-page .tabel-product-information p {
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: left;
+
+    color: #646464;
+
+    padding-bottom: 15px;
+}
+/*TUTUP PRODUCT INFORMATION*/
+
+/*TOTAL PRICE*/
+.order-page .total-price {
+    background-color: #F4F4F4;
+    border: #D5D5D5 1px solid;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    margin-bottom: 45px;
+    
+}
+.order-page .total-price h5{
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+}
+.order-page .total-price p {
+    margin-top: 20px;
+    font-family: alata;
+    font-weight: 400;
+    font-size: 15px;
+}
+/*TUTUP TOTAL PRICE*/
+
+/*USER INFORMATION*/
+.user-information table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+    
+}
+.user-information td {
+    padding: 25px;
+    padding-right: 45px;
+    text-align: right;
+}
+/*TUTUP USER INFORMATION*/
+
+/*SHIPPING COMPANY*/
+.shiping-company table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+}
+.shiping-company td {
+    width: 100%;
+    padding: 45px;
+}
+.shiping-company th {
+    background-color: #F4F4F4;
+    height: 63px; 
+    text-align: center;
+}
+.shiping-company select {
+    width: 300px;
+    padding: 10px;
+    margin-left: 30px;
+}
+/*USER SHIPPING COMPANY*/
+
+
+/*PAYMENT USE*/
+.payment-use table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+}
+.payment-use td {
+    width: 10%;
+    padding: 45px;
+}
+/*TUTUP PAYMENT USE*/
+
+/*ORDER DAN CANCEL BUTTON*/
+.button-cancel-order button{
+    width: 100%;
+    height: 55px;
+    border: none;
+
+    margin-top: 45px;
+    margin-bottom: 45px;
+
+    font-family: nunito;
+    font-weight: 500;
+    font-size: 20px;
+}
+.button-cancel-order .cancel{
+    color: black;
+    background-color: white;
+}
+.button-cancel-order .order{
+    color: #FFFFFF;
+    background-color: #FFDAB9;
+}
+.button-cancel-order .order:hover{
+    color: #FFFFFF;
+    background-color: #FFC0CB;
+}
+/*TUTUP ORDER DAN CANCEL BUTTON*/
+
+/*USER INFORMATION*/
+.payment-information table {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 45px;
+    border: 1px solid #D5D5D5;
+    
+}
+.payment-information td {
+    padding: 45px;
+    padding-right: 45px;
+    text-align: left;
+}
+/*TUTUP USER INFORMATION*/
+
+/*ORDER SUCCESS*/
+.order-success {
+    text-align: center;
+}
+.order-success h3 {
+    font-family: nunito;
+    font-weight: 700;
+    font-size: 40px;
+
+    color: #80CD52;
+
+    margin-top: 121px;
+    margin-bottom: 36px;
+}
+.order-success img {
+    border-radius: 90px;
+    margin-bottom: 93px;
+}
+.order-success h5 {
+    font-family: nunito;
+    font-weight: 400;
+    font-size: 24px;
+
+    color: black;
+
+    margin-bottom: 40px;
+}
+.order-success h4 {
+    font-family: nunito;
+    font-weight: 400;
+    font-size: 27px;
+
+    color: #4A549C;
+    text-decoration: none;
+
+    margin-bottom: 90px;
+}
+/*TUTUP ORDER SUCCESS*/
